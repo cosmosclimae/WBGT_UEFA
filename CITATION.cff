@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+authors:
+  - family-names: Defrance
+    given-names: Dimitri
+title: "WBGT_UEFA: Heat-stress exposure at European football venues"
+version: 1.0.0
+date-released: 2026-02-14
+repository-code: "https://github.com/USERNAME/WBGT_UEFA"
+license: MIT
